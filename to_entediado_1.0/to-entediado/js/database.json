@@ -1,0 +1,1832 @@
+{
+  "schema_version": 1,
+  "animes": [
+    {
+      "id": 1,
+      "titulo_referencia": "'Tis Time for \"Torture,\" Princess",
+      "id_anilist": [
+        166522,
+        176370
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "culinária",
+        "slice of life",
+        "fantasia"
+      ],
+      "sinopse": "A incrível princesa guerreira é traída e capturada pelo exército do rei demônio. E agora como uma prisioneira, ela terá que resistir às mais cruéis e difíceis torturas para manter os segredos mais secretos de seu reino.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "01/09/2024",
+      "estudio": [
+        "PINE JAM"
+      ],
+      "classificacao_indicativa": "Livre",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 2,
+      "titulo_referencia": "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+      "id_anilist": [
+        168374
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "romance",
+        "fantasia",
+        "fem-protag"
+      ],
+      "sinopse": "Tal qual um gato, Rishe Irmgard tem 7 vidas, mais especificamente ela voltou no tempo pela 7ª vez depois de morrer de novo. Após viver todo tipo de vida: desde empregada até cavaleira, ela cansa de morrer pelo mesmo motivo, então ela decide ir atrás da raiz de todo mal: o Príncipe maligno bonitão.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "07/01/2024",
+      "estudio": [
+        "Studio KAI",
+        "HORNETS"
+      ],
+      "classificacao_indicativa": 12,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 3,
+      "titulo_referencia": "86 EIGHTY-SIX",
+      "id_anilist": [
+        116589,
+        131586
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "militar",
+        "distopia",
+        "drama",
+        "mecha",
+        "sci-fi"
+      ],
+      "sinopse": "Em meio de uma guerra contra uma nação fantasma, a República utiliza de robôs “não tripulados” para conter os últimos ataques liderados por uma inteligência artificial de robôs pelos próximos dois anos, enquanto isso esses “drones” se sacrificam na linha de frente mantendo uma vivência pacífica e próspera na República. Porém a nova comandante se revolta com a verdade por trás dos drones, que na verdade são pilotados pela minoria oprimida pela sua cor de cabelo.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "11/04/2021",
+      "estudio": [
+        "A-1 Pictures"
+      ],
+      "classificacao_indicativa": "16",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 4,
+      "titulo_referencia": "A Certain Magical Index",
+      "id_anilist": [
+        4654,
+        8937,
+        100185
+      ],
+      "dublagem": "não dublado",
+      "filmes": 1,
+      "generos": [
+        "shounen",
+        "sci-fi",
+        "magia",
+        "sobrenatural",
+        "paranormal",
+        "ação",
+        "comédia",
+        "harém",
+        "ecchi"
+      ],
+      "sinopse": "Em um mundo de constante conflito entre Magia e Ciência, Kamijo é apenas um azarado adolescente que acaba se deparando com uma estranha garota que se diz ser a portadora de mil grimórios mágicos e está sendo perseguida por isso. Agora Kamijo usará sua peculiar mão direita capaz de anular qualquer tipo de poder para mostrar que só usa poderzinho quem não se garante no soco.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [],
+      "ordem": null,
+      "data_lancamento": "04/10/2008",
+      "estudio": [
+        "J.C.Staff"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 5,
+      "titulo_referencia": "A Certain Scientific Accelerator",
+      "id_anilist": [
+        104463,
+        4654,
+        8937
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "paranormal",
+        "sci-fi",
+        "magia",
+        "ação",
+        "comédia",
+        "ecchi"
+      ],
+      "sinopse": "Depois de… tomar um tiro na cabeça. Accelerator, o esper (sobrenatural) mais forte da cidade académica, agora se encontra no meio de uma reabilitação para conseguir usar seus poderes em potência máxima novamente. Porém, assim como qualquer adolescente de 2013, não será isso que impedirá a vontade desse rapaz de ser Edgy e “farmar aura” usando um dos poderes mais interessantes que eu já vi: manipulação de vetores.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": "Esse anime é uma spi-off do original, então para entender a origem do personagem, é recomendado ver (não é obrigatório):",
+        "sequencia": [
+          4654,
+          8937,
+          104463
+        ]
+      },
+      "data_lancamento": "12/07/2019",
+      "estudio": [
+        "J.C.Staff"
+      ],
+      "classificacao_indicativa": "16",
+      "manual_titulo": "A Certain Scientific Accelerator",
+      "manual_capa": "imagens_manuais/A Certain Scientific Accelerator.jpg",
+      "manual_episodios": 12,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 6,
+      "titulo_referencia": "A Couple of Cuckoos",
+      "id_anilist": [
+        132052,
+        179828
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia romântica",
+        "harém",
+        "romance",
+        "ecchi",
+        "meia-irmã é incesto?",
+        "slice of life"
+      ],
+      "sinopse": "Por acidente você é trocado no berço (com uma garota) e só depois de 16 anos perceberam que tinham algo de errado. Era para você ter sido criado em uma família rica, mas virou um irmão gêmeo em uma família pobre. Um drama interessante, mas que não importa pois agora você se tornou o prometido da irmã da sua irmã que não é sua irmã, sendo que na verdade você já estava apaixonado por outra garota.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "23/04/2022",
+      "estudio": [
+        "Shin-Ei Animation",
+        "Synergy SP"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 7,
+      "titulo_referencia": "Actually, I Am",
+      "id_anilist": [
+        21033
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia romântica",
+        "romance",
+        "sobrenatural",
+        "slice of life",
+        "comédia"
+      ],
+      "sinopse": "Asashi é um rapaz normal que acaba descobrindo que seu crush da escola é na verdade uma vampira. Agora cabe a esse rapaz manter o segredo para proteger sua amada e suas outras amigas de origens peculiares. O que serira facíl, se ele não fosse frouxo e desajeitado.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "06/07/2015",
+      "estudio": [
+        "TMS Entertainment"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 8,
+      "titulo_referencia": "Aesthetica of a Rogue Hero",
+      "id_anilist": [
+        13161
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "fantasia",
+        "ecchi",
+        "harém",
+        "ação",
+        "comédia romântica"
+      ],
+      "sinopse": "Após inúmeros jovens serem subitamente teletransportados para mundos diferentes, Akatsuki consegue retornar vitorioso para seu mundo levando consigo a filha do rei demônio, Miu. No entanto, ele é forçado a se matricular em uma escola de heróis, onde ele deve aprender a controlar seus poderes e proteger o mundo de ameaças sobrenaturais. Só que ele prefere passar seu tempo roubando roupas íntimas de garotas.",
+      "recomendacao": "Não veja",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "06/07/2012",
+      "estudio": [
+        "Arms"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 9,
+      "titulo_referencia": "Aharen-san wa Hakarenai",
+      "id_anilist": [
+        137281,
+        179979
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia romântica",
+        "slice of life",
+        "fofo"
+      ],
+      "sinopse": "Nosso caro protagonista não é muito popular devido a seu rosto de delinquente e sua péssima capacidade comunicativa. Porém tudo muda quando ele conhece uma garota que possui capacidades comunicativas ainda piores que a dele, além de péssima capacidade de medir espaços pessoais.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "02/04/2022",
+      "estudio": [
+        "Felix Film"
+      ],
+      "classificacao_indicativa": "10",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 10,
+      "titulo_referencia": "AHO-GIRL",
+      "id_anilist": [
+        98251
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia romântica",
+        "fem-protag",
+        "slice of life",
+        "brainrot"
+      ],
+      "sinopse": "Além de qualquer limite estabelecido pelo bom senso, Yoshiko é uma completa imbecil sem qualquer tipo de salvação. E para piorar, ela é amiga de infância de Akuru, um jovem que tenta de todas as formas manter sua sanidade e se livrar da amizade dessa garota e sua fixação por bananas.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "04/07/2017",
+      "estudio": [
+        "Diomedéa"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 11,
+      "titulo_referencia": "Akame ga Kill!",
+      "id_anilist": [
+        20613
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "ação",
+        "drama",
+        "romance",
+        "shounen",
+        "good vibes",
+        "distopia"
+      ],
+      "sinopse": "Tatsumi é um espadachim do interior que sonhava em ir para a capital e se tornar um grande cavaleiro, porém ao chegar, ele se depara com a realidade cruel da capital. Indignado com tantas atrocidades, Tatsumi se junta a uma organização rebelde que busca exterminar esses lixos.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll",
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "07/07/2014",
+      "estudio": [
+        "White Fox"
+      ],
+      "classificacao_indicativa": "18",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 12,
+      "titulo_referencia": "Akashic Records of Bastard Magic Instructor",
+      "id_anilist": [
+        21700
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "fantasia",
+        "ação",
+        "comédia",
+        "magia",
+        "ecchi"
+      ],
+      "sinopse": "Tal qual em uma escola pública, Glenn é um novo professor não poderia se importar menos com as aulas. Porém após ser desafiado a dar aulas que nem gente (e apanhar um pouco), Glenn surpreende a todos ao se mostrar um professor extremamente capaz e surpreendentemente habilidoso em combate. Afinal, quem é esse cara?",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "04/04/2017",
+      "estudio": [
+        "Lidenfilms"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 13,
+      "titulo_referencia": "Akira",
+      "id_anilist": [
+        47
+      ],
+      "dublagem": "dublado",
+      "filmes": 1,
+      "generos": [
+        "sci-fi",
+        "drama",
+        "ação",
+        "sobrenatural",
+        "distopia",
+        "violência"
+      ],
+      "sinopse": "“Meu amigo se meteu onde não devia, e agora ele começou a desenvolver habilidades psiquicas que estão consumindo ele, mas foda-se minha moto é muito foda.”",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "16/07/1988",
+      "estudio": [
+        "TMS Entertainment"
+      ],
+      "classificacao_indicativa": "16",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 14,
+      "titulo_referencia": "Amagi Brilliant Park",
+      "id_anilist": [
+        20602
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "adiministração",
+        "comédia",
+        "fantasia",
+        "drama",
+        "ecchi"
+      ],
+      "sinopse": "Seiya era apenas um jovem rapaz narcisista, isso até ele ser subitamente ameaçado e obrigado a gerenciar um parque de diversão mágico.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [],
+      "ordem": null,
+      "data_lancamento": "07/10/2014",
+      "estudio": [
+        "Kyoto Animation"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 15,
+      "titulo_referencia": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+      "id_anilist": [
+        156023
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "fofo",
+        "comédia romântica",
+        "fantasia",
+        "drama"
+      ],
+      "sinopse": "Uma história de romance entre o Rei demônio e uma pobre elfa que ele “resgatou” com dinheiro. Agora ele terá a difícil tarefa de ensinar a garota a sorrir.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "05/04/2024",
+      "estudio": [
+        "Brain's Base"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 16,
+      "titulo_referencia": "And you thought there is never a girl online?",
+      "id_anilist": [
+        21290
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia romântica",
+        "romance",
+        "videogames",
+        "comédia",
+        "slice of life"
+      ],
+      "sinopse": "Já namorou alguém em um jogo online? Todos acabam se decepcionando quando descobrem que a “Larissa_kawai34” é só um cara tentando farmar skins no Fortnite. E depois de sofrer isso na prática, ele passa a desacreditar no romance online. Até que um dia ele marca um role presencial com seus amigos virtuais, e para sua surpresa (não a nossa), a garota que tava dando em cima dele no jogo era uma garota de verdade esse tempo todo, que por conveniência de roteiro, possui GRANDE personalidade.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "08/04/2016",
+      "estudio": [
+        "Project No.9"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 17,
+      "titulo_referencia": "Angel Beats!",
+      "id_anilist": [
+        6547
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "drama",
+        "ação",
+        "mistério",
+        "romance",
+        "comédia"
+      ],
+      "sinopse": "Yuzuru subitamente acorda em sua escola, mas logo percebe algo de errado quando encontra estudantes armados. Eles explicam a situação e dizem que ali é o limbo e que eles têm que lutar contra um anjo para evitar o pós-vida. Diante dessa realidade chocante, o rapaz busca entender a situação enquanto cativa interesse pelo anjo.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll",
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "03/04/2010",
+      "estudio": [
+        "P.A. Works"
+      ],
+      "classificacao_indicativa": "16",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 18,
+      "titulo_referencia": "Angels of Death",
+      "id_anilist": [
+        99629
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "tensão",
+        "ação",
+        "mistério",
+        "drama",
+        "violência"
+      ],
+      "sinopse": "Rachel é uma jovem garota que acorda no porão de um edifício abandonado. Sem memórias, emoções ou direitos humanos, ela explora o lugar até encontrar um psicopata sádico chamado Isaac, que desiste de matá-la por ser muito sem graça, alegando que apenas mata pessoas no ápice do desespero. Então ele decide acompanhar a garota na jornada para fugir do prédio e recuperar suas emoções para finalmente conseguir matá-la com prazer. Infelizmente, ele não é o único maníaco do recinto.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "06/07/2018",
+      "estudio": [
+        "J.C.Staff"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 19,
+      "titulo_referencia": "Aooni The Blue Monster",
+      "id_anilist": [
+        21897
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "violência",
+        "brainrot"
+      ],
+      "sinopse": "Paródia de comédia de um joguinho de terror antigo que ficou popular um tempo atrás.",
+      "recomendacao": "Não veja",
+      "onde_ver": [],
+      "ordem": null,
+      "data_lancamento": "02/10/2016",
+      "estudio": [
+        "Doga Kobo"
+      ],
+      "classificacao_indicativa": "12",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 20,
+      "titulo_referencia": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+      "id_anilist": [
+        178433
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "isekai",
+        "adiministração",
+        "fantasia"
+      ],
+      "sinopse": "Um rapaz desprovido de saúde via os jogos como única escapatória de sua realidade incapacitada. Entre os jogos, o que mais lhe entretia era o Coin Master 2 ou alguma coisa do tipo. Após sua aguardada morte, ele reencarna dentro do jogo como adm da vila.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "10/07/2025",
+      "estudio": [
+        "Maho Film"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 21,
+      "titulo_referencia": "Aria the Scarlet Ammo",
+      "id_anilist": [
+        8630
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "ação",
+        "comédia",
+        "romance",
+        "ecchi",
+        "comédia romântica",
+        "mistério"
+      ],
+      "sinopse": "Em resposta ao alto índice de criminalidade, o japão cria uma escola de detetives armados para criar jovens justiceiros. Nesse contexto nosso amigo Kinji vive no silêncio junto de sua habilidade estranha de encarnar o John Wick, mas só quando está... excitado. Dito isso, seus dias pacíficos acabam quando ele acaba conhecendo Aria Holmes (sim ela é descendente do Sherlock).",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "14/04/2011",
+      "estudio": [
+        "J.C.Staff"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 22,
+      "titulo_referencia": "Arifureta: From Commonplace to World's Strongest",
+      "id_anilist": [
+        100668,
+        112323,
+        154473
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "isekai",
+        "harém",
+        "fantasia",
+        "ação",
+        "ecchi",
+        "romance",
+        "comédia",
+        "cgi"
+      ],
+      "sinopse": "Nagumo era apenas um estudante de baixo rank, isso até toda sua turma ser magicamente convocada em outro mundo e ser coagida a interpretar o papel de “heróis”. Porém Nagumo recebe um poder bem merda, e para surpresa de ninguém, ele é traído e usado de isca na primeira oportunidade. Porém como isso é um isekai genérico, ele desperta suas verdadeiras capacidades e volta mais edgy que o próprio Shadow The Hedgehog.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "08/07/2019",
+      "estudio": [
+        "asread.",
+        "studio MOTHER"
+      ],
+      "classificacao_indicativa": "16",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 23,
+      "titulo_referencia": "Armed Girl's Machiavellism",
+      "id_anilist": [
+        21851
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "ação",
+        "comédia",
+        "comédia",
+        "ecchi",
+        "harém"
+      ],
+      "sinopse": "Uma escola feminina abre matrículas para garotos contra a vontade das estudantes, que em protesto, submetem os homens com violência e os forçam a se travestirem. Porém tudo muda quando elas encontram o maior inimigo do feminismo: Igualdade de gênero.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "06/04/2017",
+      "estudio": [
+        "Silver Link",
+        "Connect"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 24,
+      "titulo_referencia": "Assassination Classroom",
+      "id_anilist": [
+        20755,
+        21170
+      ],
+      "dublagem": "dublado",
+      "filmes": 2,
+      "generos": [
+        "shounen",
+        "comédia",
+        "drama",
+        "mistério",
+        "educativo",
+        "ação",
+        "super poderes",
+        "paranormal"
+      ],
+      "sinopse": "O que pode ser mais difícil: o ensino médio ou assassinar uma criatura onipotente? “Me matem até a formatura ou eu destruirei a terra” foram as palavras de seu novo professor amarelo e excêntrico.",
+      "recomendacao": "Máxima prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "10/01/2015",
+      "estudio": [
+        "Lerche"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 25,
+      "titulo_referencia": "Attack on Titan",
+      "id_anilist": [
+        16498,
+        20958,
+        99147,
+        104578,
+        110277,
+        146984,
+        131681,
+        162314
+      ],
+      "dublagem": "dublado",
+      "filmes": 1,
+      "generos": [
+        "distopia",
+        "drama",
+        "ação",
+        "militar",
+        "super poderes",
+        "mistério",
+        "good vibes"
+      ],
+      "sinopse": "Em um mundo dominado por titãs assassinos, a humanidade é forçada a se isolar dentro de muralhas colossais para se proteger. Dentro dessas muralhas os soldados são divididos em 3 esquadrões: polícia, defesa da muralha e o mais perigoso de todos: o esquadrão de exploração, um esquadrão composto basicamente por suicidas que sonham com a liberdade. E falando de sui- sonhador, Eren é um jovem soldado movido por sua determinação inabalável de exterminar os titãs e alcançar a liberdade dos humanos.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "07/04/2013",
+      "estudio": [
+        "Wit Studio, MAPPA"
+      ],
+      "classificacao_indicativa": "18",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 26,
+      "titulo_referencia": "Baki",
+      "id_anilist": [
+        287,
+        551,
+        97888,
+        108522,
+        124195,
+        146646,
+        176509,
+        210032
+      ],
+      "dublagem": "dublagem incompleta",
+      "filmes": null,
+      "generos": [
+        "porrada",
+        "ação",
+        "violência",
+        "shounen"
+      ],
+      "sinopse": "“Quando eu crescer eu quero ser que nem o meu pai”, uma frase fofa, porém problemática quando o seu pai é o ser vivo mais forte do mundo e também um baita arrombado. Mas isso não impedirá Baki de seguir em sua jornada para se tornar o mais forte, mesmo que pra isso ele tenha que quebrar algumas leis da natureza.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Netflix"
+      ],
+      "ordem": {
+        "conselho": "Essa é a ordem cronológica, mas a maioria ve a partir do 3º:",
+        "sequencia": [
+          287,
+          551,
+          97888,
+          108522,
+          124195,
+          146646,
+          176509,
+          210032
+        ]
+      },
+      "data_lancamento": "09/01/2001",
+      "estudio": [
+        "TMS Entertainment, Netflix Animation"
+      ],
+      "classificacao_indicativa": "18",
+      "manual_titulo": "Baki",
+      "manual_capa": "imagens_manuais/Baki.jpg",
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 27,
+      "titulo_referencia": "Barakamon",
+      "id_anilist": [
+        20722
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "artes",
+        "drama",
+        "fofo"
+      ],
+      "sinopse": "Handa é um orgulhoso calígrafo que possui um temperamento complicado, e por isso ele foi isolado em uma remota vila na puta que pariu. Tentando se concentrar em seu treinamento, Handa percebe que essa tarefa será impossível dependendo de seus vizinhos… complicados e intrometidos.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "06/07/2014",
+      "estudio": [
+        "Kinema Citrus"
+      ],
+      "classificacao_indicativa": "Livre",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 28,
+      "titulo_referencia": "Battle Game in 5 Seconds",
+      "id_anilist": [
+        126047
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "jogos mortais",
+        "paranormal",
+        "ação",
+        "super poderes",
+        "mistério"
+      ],
+      "sinopse": "Após um sequestro em massa, todas as vítimas misteriosamente recebem poderes aleatórios e são forçadas a participar de combates mortais. No meio dessa situação, Akira será forçado a usar 300% do seu QI para extrair todo potencial de seu poder: “ter o poder que seu inimigo achar que você tem”.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "14/07/2021",
+      "estudio": [
+        "Synergy SP",
+        "Vega Entertainment"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 29,
+      "titulo_referencia": "BEASTARS",
+      "id_anilist": [
+        107660,
+        114194,
+        136880,
+        187267
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "furry",
+        "drama",
+        "mistério",
+        "ação",
+        "romance",
+        "cgi"
+      ],
+      "sinopse": "Similar à premissa de Zootopia, este mundo é sustentado por um frágil acordo de paz entre herbívoros e carnívoros. Frágil o suficiente para que um único incidente envolvendo “caça” acabe com essa paz e ressuscite a segregação e desconfiança entre as partes. Nesse contexto, nosso protagonista Legoshi tenta seu melhor para reconquistar a confiança dos herbívoros quanto aos carnívoros para assim finalmente ele poder ficar com a garota mais rodada da escola.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "10/10/2019",
+      "estudio": [
+        "Orange"
+      ],
+      "classificacao_indicativa": "18",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 30,
+      "titulo_referencia": "Beelzebub",
+      "id_anilist": [
+        9513
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "ação",
+        "slice of life",
+        "paternal",
+        "super poderes",
+        "sobrenatural",
+        "delinquente"
+      ],
+      "sinopse": "O filho de rei demônio se cativa pela maldade no coração de Oga, um delinquente famoso do ensino médio, e passa a enxergá-lo como seu novo pai. E assim como todo pai juvenil, Oga tenta escapar de seu destino de ser pai na adolescência. Porém essa não será uma tarefa fácil, considerando que ele terá que achar um guerreiro à altura para substituí-lo.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "09/01/2011",
+      "estudio": [
+        "Pierrot",
+        "Pierrot Plus"
+      ],
+      "classificacao_indicativa": "12",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 31,
+      "titulo_referencia": "Berserk",
+      "id_anilist": [
+        33,
+        10218,
+        12113,
+        12115,
+        21560,
+        97643
+      ],
+      "dublagem": "dublagem incompleta",
+      "filmes": 3,
+      "generos": [
+        "fantasia",
+        "violência",
+        "aventura",
+        "good vibes",
+        "ação",
+        "drama",
+        "romance",
+        "cgi",
+        "distopia",
+        "militar",
+        "tensão"
+      ],
+      "sinopse": "Movido pelo ódio e determinação, Guts o espadachim negro, vaga pelas terras médias como mercenário enfrentando demônios e todo tipo de obstáculos para conseguir sua vingança contra seu melhor amigo e recuperar a sanidade de sua amada.",
+      "recomendacao": "Veja o mangá",
+      "onde_ver": [
+        "Crunchyroll",
+        "Netflix"
+      ],
+      "ordem": {
+        "conselho": "Ou você vê a primeira temporada, ou você vê os filmes (retratam a mesma história):",
+        "sequencia": [
+          33,
+          10218,
+          12113,
+          12115,
+          21560,
+          97643
+        ]
+      },
+      "data_lancamento": "07/10/1997",
+      "estudio": [
+        "OLM, GEMBA"
+      ],
+      "classificacao_indicativa": "18",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": "49",
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 32,
+      "titulo_referencia": "Berserk of Gluttony",
+      "id_anilist": [
+        156039
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "fantasia",
+        "ação",
+        "aventura",
+        "romance",
+        "drama"
+      ],
+      "sinopse": "Em um mundo onde todas as pessoas recebem uma habilidade única, pessoas com habilidades inúteis sempre serão discriminadas e descartadas. E um desses azarados é Fate, um pobre rapaz cuja a sua habilidade 'gula' não faz nada além de lhe causar fome. Porém sua miserável vida muda quando ele descobre a verdadeira extensão da gulas: devorar almas e absorver sua força.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "02/10/2023",
+      "estudio": [
+        "A.C.G.T."
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 33,
+      "titulo_referencia": "Beyond the Boundary",
+      "id_anilist": [
+        18153
+      ],
+      "dublagem": "não dublado",
+      "filmes": 2,
+      "generos": [
+        "sobrenatural",
+        "romance",
+        "ação",
+        "comédia",
+        "drama",
+        "fofo",
+        "super poderes"
+      ],
+      "sinopse": "Ao tentar impedir uma tentativa de suicídio, Akihito acaba caindo em uma armadilha e tem seu peito atravessado por uma espada de sangue. Porém para a surpresa da fofa exorcista, seu alvo é na verdade uma criatura imortal, e o pior de tudo, ele tem fetiche em óculos. Uma estranha relação entre uma exorcista tentando eliminar seu alvo e seu alvo que tem uma queda por ela.",
+      "recomendacao": "Máxima prioridade",
+      "onde_ver": [],
+      "ordem": null,
+      "data_lancamento": "03/10/2013",
+      "estudio": [
+        "Kyoto Animation"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 34,
+      "titulo_referencia": "Black Cat",
+      "id_anilist": [
+        68
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "ação",
+        "aventura",
+        "comédia",
+        "drama",
+        "super poderes",
+        "sci-fi"
+      ],
+      "sinopse": "Heartnet é temido como o maior assassino da organização mais poderosa no submundo. Isso pelo menos até ele se apaixonar e aprender sobre os prazeres da vida de um “gato de rua”. Agora aposentado, Heartnet não passa de um pistoleiro mercenário que tenta proteger sua liberdade lutando contra criminosos terríveis. E não sozinho.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "06/10/2005",
+      "estudio": [
+        "Gonzo"
+      ],
+      "classificacao_indicativa": "16",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 35,
+      "titulo_referencia": "Black Clover",
+      "id_anilist": [
+        97940,
+        195604
+      ],
+      "dublagem": "dublado",
+      "filmes": 1,
+      "generos": [
+        "shounen",
+        "fantasia",
+        "comédia",
+        "aventura",
+        "ação",
+        "harém",
+        "ecchi",
+        "magia",
+        "super poderes"
+      ],
+      "sinopse": "Movido por um amor impossível, Asta sonha em se tornar o Rei mago mesmo desprovido de qualquer magia. Porém sua vida muda completamente após ser escolhido por um misterioso grimório, cujo a única capacidade é invocar espadas anti-magias. Mas isso é mais do que o suficiente para guiar Asta até a guilda mais problemática das terras médias, afinal “Só lança feitiço quem não se garante no corpo a corpo”.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll",
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "03/10/2017",
+      "estudio": [
+        "Pierrot"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 36,
+      "titulo_referencia": "Bleach",
+      "id_anilist": [
+        269,
+        116674,
+        159322,
+        169755,
+        185874
+      ],
+      "dublagem": "dublado",
+      "filmes": 4,
+      "generos": [
+        "shounen",
+        "sobrenatural",
+        "super poderes"
+      ],
+      "sinopse": "Ichigo, um estiloso delinquente do ensino médio, é frequentemente perturbado por suas peculiar capacidade de ver espíritos. Um dia, seu estranho poder o faz conhecer Rukia, uma ceifeira de almas que revela a existência de shinigamis que protegem as almas humanas de criaturas corrompidas. Então, para proteger aqueles que ama, Ichigo é forçado a se tornar um Shinigami estagiário.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Disney+"
+      ],
+      "ordem": {
+        "conselho": "Só pra ter certeza:",
+        "sequencia": [
+          269,
+          116674,
+          159322,
+          169755,
+          185874
+        ]
+      },
+      "data_lancamento": "05/10/2004",
+      "estudio": [
+        "Pierrot"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 37,
+      "titulo_referencia": "Blood Blockade Battlefront",
+      "id_anilist": [
+        20727,
+        97886
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "sobrenatural",
+        "ação",
+        "paranormal",
+        "sci-fi",
+        "distopia",
+        "comédia",
+        "violência",
+        "super poderes",
+        "drama"
+      ],
+      "sinopse": "Uma fenda entre a Terra e diferentes mundos se abre sobre a cidade de Nova Iorque, prendendo todos os cidadãos junto de criaturas de outras dimensões em uma bolha impenetrável. A história gira em torno de Leonardo, o portador dos “olhos de Deus” trabalhando em uma organização de defesa civil em busca de uma solução para os olhos de sua irmã.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "04/04/2015",
+      "estudio": [
+        "BONES"
+      ],
+      "classificacao_indicativa": 16,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 38,
+      "titulo_referencia": "Blood Lad",
+      "id_anilist": [
+        11633
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "sobrenatural",
+        "ação",
+        "romance",
+        "ecchi",
+        "delinquente"
+      ],
+      "sinopse": "Staz é um poderoso vampiro que governa o inferno, lar de todo tipo de seres mágicos. Porém o mesmo é fascinado com os humanos e sua cultura, sendo viciado em jogos, animes e coisas do tipo. Felizmente para aliviar seu tédio, Staz se encontra com uma humana, que misteriosamente morreu e ficou presa no inferno. Agora ambos se juntaram em uma jornada para tirar ela de lá.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "07/07/2013",
+      "estudio": [
+        "Brain's Base"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 39,
+      "titulo_referencia": "Blue Exorcist",
+      "id_anilist": [
+        9919,
+        21861,
+        158931,
+        176311,
+        185880
+      ],
+      "dublagem": "dublagem incompleta",
+      "filmes": 0,
+      "generos": [
+        "neo shounen",
+        "shounen",
+        "ação",
+        "sobrenatural",
+        "comédia",
+        "ecchi"
+      ],
+      "sinopse": "Rin era apenas um jovem comum que foi criado por um padre e se tornou um jovem gentil, mas violento. Porém seu mundo vira de ponta cabeça quando ele descobre sobre a existência de demônios e que ele inclusive é o próprio filho de Satã. Se recusando a obedecer seu pai de sangue, Rin decide treinar para se tornar um exorcista forte o suficiente pra cobrar a pensão.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll",
+        "Netflix"
+      ],
+      "ordem": {
+        "conselho": "Ordem de lasçamento:",
+        "sequencia": [
+          9919,
+          21861,
+          158931,
+          176311,
+          185880
+        ]
+      },
+      "data_lancamento": "17/04/2011",
+      "estudio": [
+        "A-1 Pictures",
+        "Studio VOLN"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 40,
+      "titulo_referencia": "Blue Lock",
+      "id_anilist": [
+        137822,
+        163146,
+        199404
+      ],
+      "dublagem": "dublado",
+      "filmes": 1,
+      "generos": [
+        "esporte"
+      ],
+      "sinopse": "Futebol é apenas um esporte, mas para alguns, é algo muito maior. A iniciativa Blue Lock é um projeto do ministério do esporte japonês para criar uma seleção capaz de vencer o imbatível Vasco. O plano consiste em reunir jovens de todo país e os submeter ao maior dos desafios: Jogar Futebol. Apenas aqueles com mentalidades egoístas e com laudo serão capazes de se juntar à seleção.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "09/10/2022",
+      "estudio": [
+        "8bit"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": "Blue Lock",
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 41,
+      "titulo_referencia": "Blue Period",
+      "id_anilist": [
+        128705
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "artes",
+        "drama",
+        "educativo"
+      ],
+      "sinopse": "Yatora é um delinquente com excelentes notas, mas com nenhuma motivação. Nunca teve interesses ou hobbies em sua vida, mas tudo isso muda quando ele abandona seu preconceito e decide cursar o curso mais perigoso de todos os tempos: Artes.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "02/10/2021",
+      "estudio": [
+        "Seven Arcs"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 42,
+      "titulo_referencia": "BNA",
+      "id_anilist": [
+        110354
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "furry",
+        "fem-protag",
+        "ação",
+        "drama",
+        "mistério",
+        "comédia",
+        "sci-fi"
+      ],
+      "sinopse": "Em um mundo onde humanos e furries se encontram em constante conflito, Michiru era apenas uma jovem humana, que misteriosamente acaba se tornando um guaxinim humanoide. Agora ela se refugia em Anima City, uma cidade onde furries se escondem, onde junto de um Lobo humanoide, ela busca a verdade enquanto tenta se adaptar à sua nova vida.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "09/04/2020",
+      "estudio": [
+        "Trigger"
+      ],
+      "classificacao_indicativa": "12",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 43,
+      "titulo_referencia": "Boarding School Juliet",
+      "id_anilist": [
+        101310
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "romeu e julieta",
+        "romance",
+        "comédia romântica",
+        "comédia",
+        "ação",
+        "delinquente",
+        "ecchi"
+      ],
+      "sinopse": "Polarizada por facções opostas, Dahlia Academy se encontra em constate estado de tensão e conflitos. Ambas as facções possuem ideologias e opiniões opostas, com a exceção de seus líderes: Romeo e Juliet, que... possuem sentimentos nada opostos.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [],
+      "ordem": null,
+      "data_lancamento": "06/10/2018",
+      "estudio": [
+        "LIDENFILMS"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 44,
+      "titulo_referencia": "Bottom-Tier Character Tomozaki",
+      "id_anilist": [
+        112443,
+        143866
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "romance",
+        "videogames",
+        "comédia"
+      ],
+      "sinopse": "Mesmo sendo o top 1 no Smash Bros, Fumiya é rank bronze no jogo da vida (real). Após humilhar o top 2 do jogo, ele acaba descobrindo que o mesmo é na verdade uma garota, e que ela é a verdadeira top 1 no jogo que ele mais teme. Agora em troca de ajudar com o smash, ela irá ajudá-lo a se tornar gente.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "08/01/2021",
+      "estudio": [
+        "Project No.9"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 45,
+      "titulo_referencia": "BTOOOM!",
+      "id_anilist": [
+        14345
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "jogos mortais",
+        "ação",
+        "sci-fi",
+        "drama",
+        "romance",
+        "ecchi",
+        "violência",
+        "videogames",
+        "good vibes"
+      ],
+      "sinopse": "Inspirados no videogame 'Btoom' misteriosas pessoas organizam um terrível e cruel evento: Um Battle Royale com explosivos de alta tecnologia, onde os participantes são compostos pela escória da sociedade, ou pelo menos... é isso que eles dizem.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "04/10/2012",
+      "estudio": [
+        "Madhouse"
+      ],
+      "classificacao_indicativa": 18,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 46,
+      "titulo_referencia": "Bungo Stray Dogs",
+      "id_anilist": [
+        21311,
+        21679,
+        103223,
+        141249,
+        163263
+      ],
+      "dublagem": "dublado",
+      "filmes": 1,
+      "generos": [
+        "sobrenatural",
+        "ação",
+        "super poderes",
+        "drama",
+        "mistério"
+      ],
+      "sinopse": "Após ser expulso de um orfanato Atsushi se encontra com um suicida esquisito e descobre que existe uma parcela da sociedade que tem super poderes. Agora com seu poder de furry ele entra para uma delegacia sobrenatural e luta contra a máfia sobrenatural.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "07/04/2016",
+      "estudio": [
+        "Bones"
+      ],
+      "classificacao_indicativa": 16,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 47,
+      "titulo_referencia": "Call of the Night",
+      "id_anilist": [
+        141391,
+        175914
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "sobrenatural",
+        "romance",
+        "ação",
+        "slice of life"
+      ],
+      "sinopse": "Após começar a sofrer de insônia, Kou abandona sua vida de estudante exemplar e começa a vagabundear durante a noite em busca de preencher o vazio no seu peito. Durante uma de suas noitadas, Kou se encontra com uma misteriosa garota e descobre que a mesma é na verdade uma vampira. Intrigado com essa nova realidade, Kou pede para se tornar um vampiro também, porém ele descobre que o requisito para tal é se apaixonar por ela.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "08/07/2022",
+      "estudio": [
+        "LIDENFILMS"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 48,
+      "titulo_referencia": "Can a Boy-Girl Friendship Survive?",
+      "id_anilist": [
+        153554
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "romance",
+        "comédia romântica",
+        "drama"
+      ],
+      "sinopse": "O garoto com o hobby mais homossexual de todos os tempos decide abrir um mini empreendimento junto de sua amiga excêntrica. Porém sua amizade é botada à prova quando ele reencontra seu crush do passado. Será que ele conseguirá manter uma amizade despretensiosa ou - a fds é óbvio que as duas gostam dele e que ele vai tomar a pior decisão possível.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "04/04/2025",
+      "estudio": [
+        "J.C.Staff"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 49,
+      "titulo_referencia": "Carnival Phantasm",
+      "id_anilist": [
+        10012,
+        19603,
+        20791,
+        356,
+        169
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia"
+      ],
+      "sinopse": "Especial cross-over de comédia das obras: Shingetsutan Tsukihime e Fate Stay Night.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": "Como a obra é um cross over, veja pelo menos um dos abaixo antes de ver esse:",
+        "sequencia": [
+          19603,
+          20791,
+          356,
+          169,
+          10012
+        ]
+      },
+      "data_lancamento": "12/08/2011",
+      "estudio": [
+        "Lerche"
+      ],
+      "classificacao_indicativa": 12,
+      "manual_titulo": "Carnival Phantasm",
+      "manual_capa": "imagens_manuais/Carnival Phantasm.jpg",
+      "manual_episodios": 12,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 50,
+      "titulo_referencia": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
+      "id_anilist": [
+        105156
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "isekai",
+        "comédia",
+        "ação",
+        "fantasia",
+        "drama",
+        "romance"
+      ],
+      "sinopse": "O herói é invocado de outro mundo pela deusa para combater o mal e salvar a humanidade… Só que ele é extremamente paranoico e irá se fortalecer ao limite e exterminar tudo que se mova.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "02/10/2019",
+      "estudio": [
+        "White Fox"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 51,
+      "titulo_referencia": "Chain Chronicle: Haecceitas no Hikari Part 1",
+      "id_anilist": [
+        20986,
+        87505,
+        87506,
+        87507
+      ],
+      "dublagem": "não dublado",
+      "filmes": 3,
+      "generos": [
+        "ação",
+        "fantasia",
+        "aventura"
+      ],
+      "sinopse": "Aventuras de rpg (adaptação de jogo de turno).",
+      "recomendacao": "Não veja",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": {
+        "conselho": "Ou veja o anime, ou a triologia, ambos retratam a mesma coisa:",
+        "sequencia": [
+          20986,
+          87505,
+          87506,
+          87507
+        ]
+      },
+      "data_lancamento": "05/01/2017",
+      "estudio": [
+        "Graphinica",
+        "Telecom Animation Film"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": 12,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 52,
+      "titulo_referencia": "Chained Soldier",
+      "id_anilist": [
+        141821,
+        176276
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "shounen",
+        "ecchi",
+        "comédia",
+        "comédia romântica",
+        "harém",
+        "ação",
+        "fantasia",
+        "super poderes"
+      ],
+      "sinopse": "Junto de um súbito ataque de monstros de outra dimensão, surgiram frutas misteriosas com capacidade de conceder poderes para qualquer mulher que a comesse. Agora em um mundo onde o patriarcado se inverteu, Yuuki acaba sendo envolvido em uma confusão onde ele descobriu seu estranho potencial como... escravo de guerra, e decide usar seus novos poderes junto de sua mestra para procurar por sua irmã perdida e... receber recompensas duvidosas (muita safadeza envolvida, tipo, muita mesmo).",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "07/01/2024",
+      "estudio": [
+        "Seven Arcs"
+      ],
+      "classificacao_indicativa": 16,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 53,
+      "titulo_referencia": "Chainsaw Man",
+      "id_anilist": [
+        127230,
+        171627
+      ],
+      "dublagem": "dublado",
+      "filmes": 1,
+      "generos": [
+        "neo shounen",
+        "ação",
+        "sobrenatural",
+        "comédia",
+        "distopia",
+        "good vibes",
+        "violência",
+        "shounen",
+        "ecchi"
+      ],
+      "sinopse": "Sem mãe, sem pai, sem dinheiro, sem liberdade e sem bola, Denji só tinha seu cachorro motosserra e um sonho pegar em uns peitinhos. Mas como o destino (Fujimoto) não gosta de paz, meu mano Denji cai em uma armadilha e é brutalmente assassinado, ou pelo menos era isso que ele achava. Agora ressuscitado e possuído pelo seu cachorro motosserra, Denji se junta aos caçadores de demônios para usar seus poderes de motosserra para ganhar o direito de ser enganado e violado por mulheres bonitas (não do jeito legal).",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "12/10/2022",
+      "estudio": [
+        "MAPPA"
+      ],
+      "classificacao_indicativa": 18,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": 12,
+      "manual_status": "Hiato"
+    },
+    {
+      "id": 54,
+      "titulo_referencia": "Charlotte",
+      "id_anilist": [
+        20997
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "super poderes",
+        "drama",
+        "paranormal",
+        "romance",
+        "mistério",
+        "ação",
+        "comédia",
+        "viagem no tempo"
+      ],
+      "sinopse": "Subitamente capaz de possuir uma pessoa por alguns segundos, Yuu começa a aproveitar seu novo e misterioso poder para curtir sua vida no ensino médio. Porém como isso aqui não é bagunça, uma organização secreta de jovens em condições similares acaba contatando Yuu e recrutam ele (contra a vontade dele). Sem opções, Yuu se junta ao esquadrão para impedir jovens paranormais de fazerem merda que nem ele.",
+      "recomendacao": "Máxima prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "05/07/2015",
+      "estudio": [
+        "P.A. Works"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    }
+  ]
+}
