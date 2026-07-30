@@ -11,6 +11,7 @@ const dublagemFiltroState = new Set();
 const classificacaoFiltroState = new Set();
 const recomendacaoFiltroState = new Set();
 const ondeVerFiltroState = new Set();
+const statusFiltroState = new Set();
 
 // descrições carregadas de js/generos.json e js/recomendacoes.json (pros tooltips de hover)
 let generoDescricoes = new Map();
@@ -167,6 +168,19 @@ function populateFilterPanel() {
     dublagemWrap.appendChild(chip);
   });
 
+  // status (valores dinâmicos, extraídos do campo status de cada anime)
+  const statusSet = new Set();
+  allAnimes.forEach(a => { if (a.status) statusSet.add(a.status); });
+  const statusWrap = document.getElementById('statusChips');
+  [...statusSet].sort((a, b) => a.localeCompare(b, 'pt-BR')).forEach(valor => {
+    const chip = document.createElement('button');
+    chip.type = 'button';
+    chip.className = 'genre-chip';
+    chip.textContent = valor;
+    chip.addEventListener('click', () => toggleSimpleFilter(statusFiltroState, valor, chip));
+    statusWrap.appendChild(chip);
+  });
+
   // classificação indicativa (valores dinâmicos, ordenados com "Livre" primeiro e depois numericamente)
   const classifSet = new Set();
   allAnimes.forEach(a => { if (a.classificacao_indicativa) classifSet.add(String(a.classificacao_indicativa)); });
@@ -201,7 +215,7 @@ function populateFilterPanel() {
 }
 
 function updateFiltroActiveCount() {
-  const total = generoFiltroState.size + dublagemFiltroState.size + classificacaoFiltroState.size + recomendacaoFiltroState.size + ondeVerFiltroState.size;
+  const total = generoFiltroState.size + dublagemFiltroState.size + classificacaoFiltroState.size + recomendacaoFiltroState.size + ondeVerFiltroState.size + statusFiltroState.size;
   document.getElementById('filtroActiveCount').textContent = total ? `(${total})` : '';
 }
 
@@ -250,6 +264,7 @@ function applyFiltersAndRender() {
       if (!alvo.includes(busca)) return false;
     }
     if (dublagemFiltroState.size > 0 && !dublagemFiltroState.has(a.dublagem)) return false;
+    if (statusFiltroState.size > 0 && !statusFiltroState.has(a.status)) return false;
     if (classificacaoFiltroState.size > 0 && !classificacaoFiltroState.has(String(a.classificacao_indicativa))) return false;
     if (recomendacaoFiltroState.size > 0 && !recomendacaoFiltroState.has(a.recomendacao)) return false;
     if (ondeVerFiltroState.size > 0) {

@@ -1,13 +1,13 @@
 {
   "generos": [
     {
-      "Nome": "adiministração",
+      "Nome": "administração",
       "Descrição": "Gerenciando e evoluindo uma cidade ou franquia",
       "Imagem": ""
     },
     {
       "Nome": "artes",
-      "Descrição": "Animes inspirativos para futuros artistas, ou não",
+      "Descrição": "Animes inspiradores para futuros artistas, ou não",
       "Imagem": ""
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "Nome": "cgi",
-      "Descrição": "Uma das formas de animação mais amaldiçoadas já criadas, mas as vezes não é tão ruim",
+      "Descrição": "Uma das formas de animação mais amaldiçoadas já criadas, mas às vezes não é tão ruim",
       "Imagem": ""
     },
     {
@@ -47,12 +47,12 @@
     },
     {
       "Nome": "delinquente",
-      "Descrição": "Jovens desajustados brigando para para comprovar quem tem o menor pinto",
+      "Descrição": "Jovens desajustados brigando para comprovar quem tem o menor pinto",
       "Imagem": ""
     },
     {
       "Nome": "distopia",
-      "Descrição": "Mundos distorcidos, sociedades opressoras e apocalípses. Basicamente o Brasil",
+      "Descrição": "Mundos distorcidos, sociedades opressoras e apocalipses. Basicamente o Brasil",
       "Imagem": ""
     },
     {
@@ -62,12 +62,17 @@
     },
     {
       "Nome": "ecchi",
-      "Descrição": "Safadezas e fansevices censurados ou leves (tirem as crianças da sala... e os pais)",
+      "Descrição": "Safadezas e fanservices censurados ou leves (tirem as crianças da sala... e os pais)",
       "Imagem": ""
     },
     {
       "Nome": "educativo",
-      "Descrição": "Animes que agregam conhecimento e cultura.",
+      "Descrição": "Animes que agregam conhecimento e cultura",
+      "Imagem": ""
+    },
+        {
+      "Nome": "escolar",
+      "Descrição": "O ambiente mais tóxico e degradante da humanidade. Saudades",
       "Imagem": ""
     },
     {
@@ -82,7 +87,7 @@
     },
     {
       "Nome": "fantasia",
-      "Descrição": "Mundos ficticios cheios de magia, criaturas estranhas e muita mentirada",
+      "Descrição": "Mundos fictícios cheios de magia, criaturas estranhas e muita mentirada",
       "Imagem": ""
     },
     {
@@ -118,6 +123,11 @@
     {
       "Nome": "jogos mortais",
       "Descrição": "Arriscando a vida em jogos perigosos para o entretenimento de terceiros, basicamente um programa do Faustão",
+      "Imagem": ""
+    },
+        {
+      "Nome": "jogos mentais",
+      "Descrição": "Trapaças, mentiras, estratégias e reviravoltas",
       "Imagem": ""
     },
     {
@@ -171,23 +181,28 @@
       "Imagem": ""
     },
     {
+      "Nome": "romeu e julieta",
+      "Descrição": "Duas famílias/facções rivais, dois protagonistas apaixonados um pelo outro. Shakespeare, praticamente",
+      "Imagem": ""
+    },
+    {
       "Nome": "sci-fi",
       "Descrição": "Ficção científica (Só isso mesmo)",
       "Imagem": ""
     },
     {
       "Nome": "shounen",
-      "Descrição": "Checklist: Ação, poderzinho, comédia, desenvolvimento de personagem, drama e o protagonista treina pra ficar mais forte.",
+      "Descrição": "Checklist: Ação, poderzinho, comédia, desenvolvimento de personagem, drama e o protagonista treina pra ficar mais forte",
       "Imagem": ""
     },
     {
       "Nome": "slice of life",
-      "Descrição": "Aff, bora relaxa que o caba não é e ferro",
+      "Descrição": "Aff, bora relaxa que o caba não é de ferro",
       "Imagem": ""
     },
     {
       "Nome": "sobrenatural",
-      "Descrição": "Fantasmas, assombraçõe, fenômenos inexplicáveis e, é claro, poderes estranhos",
+      "Descrição": "Fantasmas, assombrações, fenômenos inexplicáveis e, é claro, poderes estranhos",
       "Imagem": ""
     },
     {
