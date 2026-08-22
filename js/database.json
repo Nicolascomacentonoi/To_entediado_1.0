@@ -3468,6 +3468,74 @@
       "manual_capa": null,
       "manual_episodios": 26,
       "manual_status": "Finalizado"
+    },
+    {
+      "id": 210,
+      "titulo_referencia": "Phoenix Wright: Ace Attorney − Spirit of Justice Prologue",
+      "id_anilist": [
+        21360,
+        101313,
+        97966
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "mistério",
+        "comédia",
+        "drama",
+        "jogos mentais"
+      ],
+      "sinopse": "Phoenix é apenas um jovem promissor que sonha em defender pessoas inocentes nos julgamentos como o melhor advogado possível. O que será algo consideravelmente difícil quando todos os seus clientes são acusados de assassinato e do outro lado se encontra um promotor de extremo renome invicto com 3 testemunhas compradas, 2 provas forjadas e com o juiz dentro do bolso. Mas ele tem um dedo e ele vai PROTESTAR.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "02/04/2016",
+      "estudio": [
+        "A-1 Pictures"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 297,
+      "titulo_referencia": "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san Season 2",
+      "id_anilist": [
+        162804,
+        181641
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia romântica",
+        "romance",
+        "comédia",
+        "ecchi",
+        "escolar",
+        "fofo",
+        "harém",
+        "meia-irmã é incesto?",
+        "slice of life"
+      ],
+      "sinopse": "Seirei Academy é uma das escola mais prestigiadas do Japão, onde só os melhores (e mais ricos) estudantes podem ter acesso. E entre esses alunos está Alya, a maior estrela da escola: inteligênte, elegante, russa, diciplinada e acima de tudo, cabelo colorido (literalmente um pokemon shiny). Só que existe uma coisa que capaz de abalar sua elegante rotina: um misterioso e preguiçoso colega que se senta ao seu lado, que por mais que ela tente discipliná-lo ou chamar sua atenção, ele simplesmente parece não se importar com sua presença ou fama, e algo que havia começado apenas por puro incomodo acaba se tornando uma obsessão e interesse pelo rapaz. Porém a frustração da garota acaba fazendo com que ela desabafe em voz alta e em russo, afinal quem é que saberia russo? ...Sim... ele mesmo.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "03/07/2024",
+      "estudio": [
+        "Doga Kobo"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
     }
 
   ]
