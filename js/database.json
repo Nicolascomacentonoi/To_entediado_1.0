@@ -3469,6 +3469,932 @@
       "manual_episodios": 26,
       "manual_status": "Finalizado"
     },
+        {
+      "id": 96,
+      "titulo_referencia": "Fire Force",
+      "id_anilist": [
+        105310,
+        114236,
+        149118,
+        179062,
+        3588
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "neo shounen",
+        "shounen",
+        "fantasia moderna",
+        "ação",
+        "comédia",
+        "super poderes",
+        "sobrenatural",
+        "ecchi",
+        "militar",
+        "mistério",
+        "distopia"
+      ],
+      "sinopse": "A muito tempo atrás, misteriosamente a maior parte da humanidade foi simplesmente incinerada em um misterioso evento de combustão expontânea em massa, o que acabou forçando os sobreviventes a se reunirem em novas colonias naquele mundo de cinzas. Muitos anos depois, Tokyo é uma das poucas colonias que ainda restam no mundo que é alimentada por uma revolucionária fonte de energia perpétua. Porém, a capital ainda é assombrada com casos constantes de combustão expontanea que tranformam a vitima em uma espécie de zumbi flamejante, e como resposta a isso a capital conta com uma exepcional força de bombeiros capazes de confrontar esses seres usando seus misteriosos e relativamente comuns poderes de fogo. A história em questão acompanha a visão de um novo recruta apelidado de 'Pegadas do Diabo' que apenas quer se tornar um herói.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+       "ordem": {
+        "conselho": "Na verdade essa série é 100% idependente, mas só por curiosidade saiba que esse é um prólogo de Soul Eater, então... eu achei mais legal ver nessa ordem: ",
+        "sequencia": [        3588,105310,
+        114236,
+        149118,
+        179062
+
+        ]
+      },
+      "data_lancamento": "06/07/2019",
+      "estudio": [
+        "David Production"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": 73,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 97,
+      "titulo_referencia": "Food Wars!",
+      "id_anilist": [
+        20923,
+        21518,
+        99255,
+        100773,
+        109963,
+        114043
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "culinária",
+        "shounen",
+        "comédia",
+        "ecchi",
+        "escolar",
+        "harém"
+      ],
+      "sinopse": "Souma é filho de um grande chef de restaurante e sonha em herdar os negócios da família e superar seu pai. Só que derrepente, seu pai simplesmente some e suspende o restaurante, sugerindo que seu filho estude em uma academia gastronômica de elite alegando que só assim Souma conseguirá superá-lo. E depois de reclamar muito, ele decide que não vai só frequentar essa espelunca como vai virar o lugar de cabeça para baixo enquanto faz todos tirarem o chapéu... e as roupas (Seguinte, alguém achou que seria uma boa ideia que os 'impact frames' dos pratos fossem representados por gente sem roupa)",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll",
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "04/04/2015",
+      "estudio": [
+        "J.C.Staff"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 98,
+      "titulo_referencia": "Frieren: Beyond Journey’s End",
+      "id_anilist": [
+        154587,
+        182255,
+        209939
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "fantasia",
+        "aventura",
+        "drama",
+        "ação",
+        "magia",
+        "comédia",
+        "romance",
+        "family friendly",
+        "fem-protag",
+        "fofo"
+      ],
+      "sinopse": " Depois de 10 longos anos de aventuras, Himmel e seus amigos retornam vitoriosos após finalmente derrotarem o Rei Demônio. Porém, o quão demorado pode ser 10 anos? Para Frieren, a maga elfa do grupo dos Heróis, esse tempo não representa nem 1% de sua expectativa de vida. O tempo continua passando e Frieren testemunha seus amigos envelhecendo tão rapido quanto estudantes de computação, até que Himmel finalmente morre de velhice. Após a morte seu querido amigo, Frieren começa a perceber o quanto ela se arrepende de não ter aproveitado esse curto tempo que ela poderia ter passado ao lado de Himmel. Agora pela primeira vez determinada, Frieren decide embarcar em uma jornada para buscar se redimir com Himmel no mundo dos mortos enquanto aprende a apreciar melhor os breves momentos ao lado das pessoas que ama. ",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "29/09/2023",
+      "estudio": [
+        "Madhouse"
+      ],
+      "classificacao_indicativa": 12,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 99,
+      "titulo_referencia": "Full Metal Panic!",
+      "id_anilist": [
+        71,
+        72,
+        73,
+        21451
+      ],
+      "dublagem": "dublagem incompleta",
+      "filmes": 0,
+      "generos": [
+        "militar",
+        "mecha",
+        "escolar",
+        "ação",
+        "comédia romântica",
+        "comédia",
+        "romance",
+        "ecchi",
+        "sci-fi"
+      ],
+      "sinopse": "Mithril é uma organização militar secreta que protege o mundo de ameaças terroristas e de torcidas organizadas. Para isso, eles recrutam jovens soldados altamente treinados e os enviam em missões perigosas ao redor do mundo. Um desses soldados é Sousuke, um jovem soldado altamente treinado que é enviado para proteger Kaname, uma estudante do ensino médio que possui uma misteriosa habilidade de extremo valor, e que nem ela sabe que tem. Sousuke deve se infiltrar na escola de Kaname e protegê-la de qualquer ameaça enquanto enfrenta o maior terror de qualquer adolescente: se adaptar e sobreviver ao ensino médio.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+  
+      ],
+       "ordem": {
+        "conselho": "Esse anime possui 4 temporas, 3 sérias e ação e UMA de comédia, sendo que a unica que possui dublagem é a 2ª temporada (a de comédia)",
+        "sequencia": [
+                  71,
+        72,
+        73,
+        21451
+        ]
+      },
+      "data_lancamento": "08/01/2002",
+      "estudio": [
+        "Gonzo"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 100,
+      "titulo_referencia": "Full-Time Magister",
+      "id_anilist": [
+        99200,
+        100294,
+        104745,
+        115800,
+        122671,
+        137726,
+        206354
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "isekai",
+        "fantasia moderna",
+        "magia",
+        "ação",
+        "mistério",
+        "escolar",
+        "family friendly",
+        "harém",
+        "shounen",
+        "super poderes"
+      ],
+      "sinopse": "Misteriosamente após ser transportado para outro mundo, Mo fan se encontra em um mundo beeem similar ao de onde pertence, onde sua vida continua pobre e miserável, com um pequeno diferencial de que aquele mundo possui magos, magia e magos que soltam magias. Chegando em sua nova escola, Mo fan descobre que todos possuem um certo nivel de compatibilidade magica, e que eles teriam que descobrir ao alisar uma bola magica. Quando chega sua vez, a turma acaba se distraindo com um aluno de outra turma com um poder muito raro, e enquanto isso, nosso protagonista tira um poder mais raro ainda. Agora Mo fan desenvolve o objetivo de se tornar um mago bem sucedido para sair da miséria enquanto descobre sobre os misterios por traz de seu isekai.",
+      "recomendacao": "Chinês",
+      "onde_ver": [
+        
+      ],
+      "ordem": null,
+      "data_lancamento": "01/09/2016",
+      "estudio": [
+        "Foch Films"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 101,
+      "titulo_referencia": "Fullmetal Alchemist: Brotherhood",
+      "id_anilist": [
+        5114
+      ],
+      "dublagem": "dublado",
+      "filmes": 1,
+      "generos": [
+        "paranormal",
+        "ação",
+        "magia",
+        "drama",
+        "mistério",
+        "militar",
+        "sobrenatural"
+      ],
+      "sinopse": "'Nossa mãe morreu, mas e se tipo, a gente ressucitar ela? O que pode dar de errado?'(Deu MUITO errado). O alquimista de aço é o titulo que Edward Elric carrega como um dos alquimistas mais promissores da nação e que trabalha para o exército junto de seu irmão Alphonse. Porém oque eles escondem é seu verdadeiro objetivo de alcançar a pedra filosofal para finalmente recuperarem o que perderam naquele dia trágico. Porém eles descobrem que os misterios da alquimia vão muito além do que eles imaginam e que existe um grande perigo rastejando sobre as sombras da capital.",
+      "recomendacao": "Máxima prioridade",
+      "onde_ver": [
+        "Crunchyroll",
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "05/04/2009",
+      "estudio": [
+        "Bones"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 102,
+      "titulo_referencia": "Gabriel DropOut",
+      "id_anilist": [
+        21878
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "escolar",
+        "sobrenatural",
+        "slice of life",
+        "fofo",
+        "fem-protag",
+        "isekai reverso"
+      ],
+      "sinopse": "Um dos anjos mais promissores do Céu, Gabriel, decide descer pessoalmente à Terra para fazer uma pesquisa de campo e estudar mais sobre os seres humanos e expalhar a palavra do Senhor. Alguns meses se passam e Grabriel se encontra... Jogando LOL? Infelizmente parece que nossa querida anja acabou sendo corrompida pelos prazeres e mordomias da civilização, e agora se considera um anjo caido que se recusa a voltar para suas tarefas chatas. Uma situação tão deplorável e inesperada que até Vignette, uma literal demônio, acaba se incomadando com o jeito de Gabriel, ao ponto de tentar purificar-la de volta. ",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "09/01/2017",
+      "estudio": [
+        "Doga Kobo"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 103,
+      "titulo_referencia": "Gachiakuta",
+      "id_anilist": [
+        178025,
+        204436
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "neo shounen",
+        "ação",
+        "comédia",
+        "distopia",
+        "drama",
+        "fantasia moderna",
+        "mistério",
+        "super poderes",
+        "sobrenatural",
+        "sci-fi"
+      ],
+      "sinopse": "Rudo é um jovem catador de lixo que vive sua vida roubando e reciclado tralha dos ricos de Florianopolis (ou coisa do tipo). Sua vida é bem precária e sofrida, mas ele tem o que mais importa no fim do dia: Família e amigos. Bom, pelo menos até seu pai ser brutalmente assassinado em sua frente, seus amigos abandonarem ele e ainda ser acusado pelo assassinato. Para finalizar com a cereja do bolo, Rudo é condenado ao exilio do Pariso e recebe uma confortável viagem de 3 km de pura queda livre direto para o inferno. Só que para sua surpresa (e nossa), Rudo sobrevive e percebe que ele acabou indo para um lugar pior o inferno: o Brás, onde acaba descobrindo a existencia de gigantes monstros. Quando tudo parecia perdido, um estiloso homem aparece e resgata Rudo usando um misterioso poder, depois ele acaba explicando como as coisas funcionam no mundo inferior: é cada um por si e cuidado com pessoas que querem saber mais sobre o paraíso. Diante dessa nova situação, Rudo decide se juntar aos 'Faixineiros' e lutar ao lado deles junto de seu novo poder de transformar qualquer objeto em uma arma especial.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "06/07/2025",
+      "estudio": [
+        "Bones"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 104,
+      "titulo_referencia": "GAMERS!",
+      "id_anilist": [
+        97766
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia romântica",
+        "romance",
+        "comédia",
+        "escolar",
+        "videogames",
+        "harém",
+        "slice of life"
+      ],
+      "sinopse": "Tal qual um milagre, a garota mais bonita da escola vem até você para te convidar para participar do clube de videogames que ela está montando. Algo que seria um sonho para qualquer gamer existente acaba se tornando uma situação desesperadora para Keita Amano, um rapaz extremamente tímido e socialmente desajustado. Agora somos forçados a acompanhar esse cabaço saindo da toca para explorar o mundo do games junto de sua colega convenientemente linda e que convenintemente da bola pra ele",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "13/07/2017",
+      "estudio": [
+        "Pine Jam"
+      ],
+      "classificacao_indicativa": "14",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 105,
+      "titulo_referencia": "Gate",
+      "id_anilist": [
+        20994,
+        21364,
+        195496
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "fantasia moderna",
+        "comédia",
+        "ação",
+        "militar",
+        "fantasia",
+        "ecchi",
+        "isekai",
+        "isekai reverso"
+      ],
+      "sinopse": "De forma misteriosa e repentina, um gigante portal se abre no meio da ciadade de Tokyo e libera diversas criaturas e montros mágicos de outro mundo. 3 meses após a contensão do desastre, o governo começa a enviar equipes de expedição para o outro mundo para estabelecer conexões e decidir se um guerra seria o unico caminho. E Youji é o escolhido para liderar essa equipe, um sargento capaz e discplinado que é secretamente um otaku que adora mundos de fantasia, e agora cabe a esse homem estabelecer a coexistência entre os dois mundos.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "04/07/2015",
+      "estudio": [
+        "A-1 Pictures"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 106,
+      "titulo_referencia": "Gintama",
+      "id_anilist": [
+        918,
+        7472,
+        9969,
+        15417,
+        15335,
+        20996,
+        97889,
+        99714,
+        100784,
+        101925,
+        126819,
+        114129
+      ],
+      "dublagem": "não dublado",
+      "filmes": 10,
+      "generos": [
+        "comédia",
+        "brainrot",
+        "fantasia moderna",
+        "sci-fi",
+        "sobrenatural",
+        "ação",
+        "slice of life"
+      ],
+      "sinopse": "O japão feudal é invadido e dominado por forças alienígenas, que passam a governar o país pelas sombras e suprimir suas forças, banindo todas as armas brancas. Gintoki é um exentrico ronin com sua espada de madeira que possui uma agencia de Faz tudo, onde que por sua vez acaba atraindo mais dois companheiros tão esquisitos quanto: um aprendiz de samurai nerdola, e uma alienigena de força e apetite sobre humanos. Juntos eles formam a força de tarefa mais caótica e instavel da galaxia.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+       "ordem": {
+        "conselho": "Seguinte, esse daqui tem MUIIITO filler, então se você queiser uma experiência otimizada, eu recomndo você seguir esse guia para os ep:https://ovicio.com.br/guia-como-assistir-gintama-em-ordem-cronologica-sem-fillers/",
+        "sequencia": [        918,
+        7472,
+        9969,
+        15417,
+        15335,
+        20996,
+        97889,
+        99714,
+        100784,
+        101925,
+        126819,
+        114129
+
+        ]
+      },
+      "data_lancamento": "04/04/2006",
+      "estudio": [
+        "Sunrise"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 107,
+      "titulo_referencia": "Gleipnir",
+      "id_anilist": [
+        108241
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "sobrenatural",
+        "mistério",
+        "ação",
+        "super poderes",
+        "ecchi",
+        "romance",
+        "drama"
+
+      ],
+      "sinopse": "Repentinamente Shuuichi recebe um misterioso poder capaz de transforma-lo em uma espécie de fantasia de mascote super poderosa. E afim de manter esse segredo, ele opta por esconder isso o maximo possível. Isso até que Claire Aoki, uma garota que tinha acabado de ser salva pelo mascote, descobre a identidade do rapaz e ameaça expor sua identidade caso não ajude ela. Agora ambos buscam saber a verdade por trás do desaparecimento da irmã de Claire e da origem dos poderes de Shuuichi.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "05/04/2020",
+      "estudio": [
+        "Pine Jam"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 108,
+      "titulo_referencia": "GOBLIN SLAYER",
+      "id_anilist": [
+        101165
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "good vibes",
+        "violência",
+        "ação",
+        "fantasia",
+        "aventura",
+        "drama",
+        "tensão"
+      ],
+      "sinopse": "Após testemunhar o brutal fim de tudo que amava nas mãos de goblins, um jovem sem nome acaba sendo adotado por misterioso Guru que viu potencial em seu ódio e determinação. Após anos de intenso treinamento, o jovem começa sua jornada para limpar o mundo dessa maligna praga que é comumente subestimada devido sua aparencia. Essa não é uma hitória de um aventureiro, mas sim de um Caçador de Goblins (PS: O anime deu um belo destaque nas cenas de amor desprovido de consentimento, o que é validamente um ponto bem desconfortável. Por isso eu recomendo o mangá.)",
+      "recomendacao": "Veja o mangá",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "07/10/2018",
+      "estudio": [
+        "White Fox"
+      ],
+      "classificacao_indicativa": 18,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 109,
+      "titulo_referencia": "GOLDEN BOY",
+      "id_anilist": [
+        268
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "romance",
+        "harém",
+        "ecchi",
+        "aventura",
+        "educativo"
+      ],
+      "sinopse": "Kintarou é um jovem mochileiro que viaja pelo Japão em sua irada bike em busca de experiências que não se adiquiri nas escolas. Especialista em quase todo tipo de trabalho de meio período, ele vive se esgueirando atrás de rabos de saia enquanto acaba em diferentes empregos, onde por mais que ele não consiga se manter por muito tempo devido sua personalidade, ele sempre acaba aprendendo alguma coisa nova.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [],
+      "ordem": null,
+      "data_lancamento": "28/10/1995",
+      "estudio": [
+        "APPP"
+      ],
+      "classificacao_indicativa": 16,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 110,
+      "titulo_referencia": "Grand Blue Dreaming",
+      "id_anilist": [
+        100922,
+        182309,
+        199111
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "ecchi",
+        "escolar",
+        "romance",
+        "slice of life"
+      ],
+      "sinopse": "Iori é um jovem que está prestes a estreiar sua vida universitária em uma cidade costeira onde seu tio possui uma loja de mergulho, na qual ele pretende se hospedar. Porém, ao chegar no local ele acaba se deparando com uma bizarra festa dos membros do clube de mergulho da mesma universidade dele, onde todos parecem beber vodka como se fosse água enquanto... nus. Bom, a vida é só uma, então Iori acaba se enturmando e participando do excentrico clube junto de seu novo amigo otaku e sua 'meia' prima tsundere. (Eu particularmente prefiro bem mais o mangá, mas o anime é bom tb).",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "14/07/2018",
+      "estudio": [
+        "Zero-G"
+      ],
+      "classificacao_indicativa": 16,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 111,
+      "titulo_referencia": "Great Pretender",
+      "id_anilist": [
+        110349,
+        170935
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+                "jogos mentais",
+        "aventura",
+        "ação",
+        "comédia",
+        "drama",
+        "mistério"
+      ],
+      "sinopse": "Makoto é um jovem vigarista que vive de bater carteiras e enganar as pessoas, algo na qual ele é extremamente bom. Porém como a vida não é um morango, ele acaba sendo superado por um turista misterioso que inverte os papéis e chantageia o garoto. Agora sem opção, Makoto terá que apostar sua vida em um duelo de vigaristagens e ver quem é o maior vigarista no fim do dia. Isso é claro, enquanto ambos tentam enganar a própria Yakuza.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "02/06/2020",
+      "estudio": [
+        "Wit Studio"
+      ],
+      "classificacao_indicativa": 16,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 112,
+      "titulo_referencia": "GTO: Great Teacher Onizuka",
+      "id_anilist": [
+        245
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "ação",
+        "delinquente",
+        "drama",
+        "ecchi",
+        "educativo",
+        "escolar",
+        "porrada"
+      ],
+      "sinopse": "Eikichi Onizuka é um jovem adulto que possui o sonho de se tornar o maior professor do Japão. Um lindo sonho, mas com o depravado objetivo de pegar garotas jovens (ele tem 22 e elas 17... sei lá é meio esquisito mesmo). Porém ao chegar em sua primeria sala de aula, o jovem professor acaba se deparando com a pior e mais problematica sala de aula do estado, com o histórico de ameaçar e enlouquecer qualquer professor que ja tenha pisado por lá. Isso é, até eles conhecerem seu novo professor e Ex-delinquente, que decide tomar as rédeas dessa sala de aula do seu jeito, mesmo que para isso ele tenha que pular de contruções para salvar um aluno suicida. (Classico plot de Turma problemática x Professor problemático).",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "30/06/1999",
+      "estudio": [
+        "Pierrot"
+      ],
+      "classificacao_indicativa": 16,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 113,
+      "titulo_referencia": "Gurren Lagann",
+      "id_anilist": [
+        2001,
+        4107,
+        4565
+      ],
+      "dublagem": "dublado",
+      "filmes": 2,
+      "generos": [
+        "mecha",
+        "aventura",
+        "ação",
+        "comédia","distopia",
+        "drama",
+        "ecchi",
+        "paranormal",
+        "romance",
+    "sci-fi",
+    "shounen",
+    "super poderes"
+        ]
+      ,
+    "sinopse": "Em um mundo onde a humanidade só conhece a escuriadão e sujeira do subsolo, Simon é apenas um jovem minerador talentoso e sem ambições que vive sendo atormentado por seu colega Kamina, que possui a ambição de subir até a superficie e conquistar sua liberdade. Porém tudo muda quando Simon acaba encontrando um mini meacha soterrado e subtamente tem sua vila invadida por uma fera gigante, onde ele é forçado a usar seu novo brinquedo para proteger sua casa e amigos. Agora, lideres da tropa de resistência, Simon e Kamina se unem aos rebeldes para tomar a Terra de volta das mãos das bestas-humanoides, usando seus mecchas roubados e sua determinação espiral.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Netflix"
+      ],
+       "ordem": {
+        "conselho": "Bom, aqui você possui 3 opções: Ver o anime, Ver os 2 filmes (Remake do anime) ou ver tudo. Eu recomendo a ultima opção, mas ai vai do sua disposição: ",
+        "sequencia": [
+                  2001,
+        4107,
+        4565
+        ]
+      },
+      "data_lancamento": "01/04/2007",
+      "estudio": [
+        "Gainax"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": 27,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 114,
+      "titulo_referencia": "Hajime no Ippo: The Fighting!",
+      "id_anilist": [
+        263,
+        5258,
+        19647
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "porrada",
+        "ação",
+        "comédia",
+        "drama",
+        "esporte",
+        "romance"
+      ],
+      "sinopse": "Ippo é um bom e pacato estudante do ensino médio, sem muitas ambições e sempre ajudando sua mãe a administrar sua loja de pescaria. Infelizmente, sua honestidade e gentileza acaba tornando-o um alvo perfeito de bulling escolar, o que torna a vida do rapaz ainda mais dificil. Porém tudo muda quando um misterioso homem aparece, ele salva Ippo dos valentões e mostra para o jovem o potencial que o Boxe pode despertar em uma pessoa. Intrigado e inspirado, Ippo decide dar uma chance para o esporte enquanto descobre uma nova ambição e um talento nigualável para descer vagabundo na porrada.",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Netflix" 
+      ],
+      "ordem": null,
+      "data_lancamento": "04/10/2000",
+      "estudio": [
+        "Madhouse"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 115,
+      "titulo_referencia": "Handa-kun",
+      "id_anilist": [
+        21626,
+        20722
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "escolar",
+        "family friendly"
+      ],
+      "sinopse": "Handa é conhecido por toda a escola como o aluno de mais alto nível social, um rapaz charmoso, inteligente, talentoso e acima de tudo: Frio como o gelo. Porém a realidade é que Handa é extremamente paranóico e inseguro, e confude sua fama e apreciação com desprezo e bulling. Uma engraçada história de maus entendidos e jovens extremamente densos e burros.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+       "ordem": {
+        "conselho": "A obra em si é um prequel de Barakamon, mas ambas são perfeitamente independentes:",
+        "sequencia": [
+                  21626,
+        20722
+        ]
+      },
+      "data_lancamento": "08/07/2016",
+      "estudio": [
+        "Diomedéa"
+      ],
+      "classificacao_indicativa": 12,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": 12,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 116,
+      "titulo_referencia": "Handyman Saitou in Another World",
+      "id_anilist": [
+        144092
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "isekai",
+        "comédia",
+        "fantasia",
+        "ação"
+      ],
+      "sinopse": "Isekai do técnico de manutenção que entra numa party de rpg.",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "08/01/2023",
+      "estudio": [
+        "LIDENFILMS"
+      ],
+      "classificacao_indicativa": "10",
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": null
+    },
+    {
+      "id": 117,
+      "titulo_referencia": "Haven't You Heard? I'm Sakamoto",
+      "id_anilist": [
+        21595
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "comédia",
+        "escolar",
+        "family friendly"
+      ],
+      "sinopse": "Sakamoto é um jovem perfeito: bonito, inteligente, elegeante e misterioso. Desde seu primeiro dia de aula ele já havia conquistado o amor de todas as garotas e a inveja de todos os garotos. Será que Sakamoto conseguirá manter sua aura contra as pegadinhas e presepadas de seus colegas excentricos?  ",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "08/04/2016",
+      "estudio": [
+        "Deen"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
+    {
+      "id": 118,
+      "titulo_referencia": "Hell’s Paradise",
+      "id_anilist": [
+        128893,
+        166613
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "ação",
+        "aventura",
+        "histórico",
+        "drama",
+        "ecchi",
+        "good vibes",
+        "mistério",
+        "paranormal",
+        "romance",
+        "shounen",
+        "super poderes",
+        "sobrenatural"
+      ],
+      "sinopse": "Após ouvir os boatos sobre uma ilha misteriosa com propriedades mítsticas, o shogum enfim ordena uma expedição de pequena escala para a ilha, contendo 12 criminosos sentenciados à morte e 12 guardas para vigiar cada prisioneiro. O objetivo da expedição é usar peões descartaveis para encontrar o exilir da imortalidade para o shogum, e para aquele que o achar, a sentença de morte seria revogada. Entre esses peões se encontra Gabimaru, o ninja mais temido do país, que por algum motivo havia se entregado e buscava a sentença de morte, o que ninguém foi capaz de conceder-lhe (sim, tentaram matar o cara de tadas as formas e n conseguiram). Isso até que uma executora aparece e o convence de que ele ainda tem motivos para viver, e que para isso, ele terá que acompanhar-la até a ilha amaldiçoada. ",
+      "recomendacao": "Alta prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "01/04/2023",
+      "estudio": [
+        "MAPPA"
+      ],
+      "classificacao_indicativa": 18,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 119,
+      "titulo_referencia": "Hensuki: Are you willing to fall in love with a pervert, as long as she’s a cutie?",
+      "id_anilist": [
+        107961
+      ],
+      "dublagem": "não dublado",
+      "filmes": 0,
+      "generos": [
+        "ecchi",
+        "romance",
+        "comédia romântica",
+        "hárem",
+        "escolar",
+        "mistério",
+        "meia-irmã é incesto?"
+      ],
+      "sinopse": "Nosso querido Keiki Kiryuu, assim como nós, sempre sonhou em receber cartinhas de amor e viver um lindo romance. O que realmente acontece! Keiki finalmente recebe uma carta de amor de uma adimiradora secreta, acompanahada de uma... calcinha? Bom, essa é a história sobre a bizarra jornada de Keiki para encontra a (respira fundo) cinderela da calcinha perdida, enquanto acaba descobrindo os estranhos segredos envolvendo os fetiches de suas amigas próximas. ",
+      "recomendacao": "Baixa prioridade",
+      "onde_ver": [
+        "Crunchyroll"
+      ],
+      "ordem": null,
+      "data_lancamento": "13/07/2019",
+      "estudio": [
+        "Geek Toys"
+      ],
+      "classificacao_indicativa": 14,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Incompleto"
+    },
+    {
+      "id": 120,
+      "titulo_referencia": "Hi Score Girl: Extra Stage",
+      "id_anilist": [
+        104307,
+        108581
+      ],
+      "dublagem": "dublado",
+      "filmes": 0,
+      "generos": [
+        "videogames",
+        "romance",
+        "comédia",
+        "comédia romântica",
+        "cgi",
+        "escolar",
+        "fofo",
+        "slice of life"
+      ],
+      "sinopse": "O ano é 1991, uma época onde a industria dos videogames se resumia a fliperamas e consoles arcaicos que eram limitados a jogos 2D. Nesse contexto, Haruno era mais um dos apaixonados por videogames que passavam o dia inteiro jogando em fliperamas e fazendo seu nome em duelos em jogos de luta. Porém, pela primeira vez, Haruno acaba sendo amassado por um oponente que se mostrava ser extremamente habilidoso no Street Fighter 2. E ainda mais surpreendente que isso, esse oponente não era nada menos que Akira, a garota perfeita de sua sala, o que só faz a indiguinação de Haruno crescer ainda mais. Acompanhe essa rivalidade fofa entre nerdolas enquanto desfruta dessa vibe nostalgica.",
+      "recomendacao": "Média prioridade",
+      "onde_ver": [
+        "Netflix"
+      ],
+      "ordem": null,
+      "data_lancamento": "14/07/2018",
+      "estudio": [
+        "J.C.Staff"
+      ],
+      "classificacao_indicativa": 12,
+      "manual_titulo": null,
+      "manual_capa": null,
+      "manual_episodios": null,
+      "manual_status": "Finalizado"
+    },
     {
       "id": 210,
       "titulo_referencia": "Phoenix Wright: Ace Attorney − Spirit of Justice Prologue",
